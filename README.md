@@ -3,11 +3,25 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
-
+STRING, VARIAVEIS, TIPOS PRIMITIVOS, SWITCH, INDEXOF, PROMPT, ARRAY.
 
 
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
 
+// Atividades envolvendo uso de variáveis (const, var, let)):
+https://codepen.io/xosu1/pen/NWZvJad
+https://codepen.io/xosu1/pen/JjQrpoR
+// Atividades envolvendo "Switch":
+https://codepen.io/xosu1/pen/mdZqWYw
+https://codepen.io/xosu1/pen/mdZqWYw
+https://codepen.io/xosu1/pen/xxoPdbw
+https://codepen.io/xosu1/pen/JjQpMVV
+// Uso de Array:
+https://codepen.io/xosu1/pen/VwJyaGz
+https://codepen.io/xosu1/pen/RwzxyVw
+// Uso de IndexOf:
+https://codepen.io/xosu1/pen/BagJxRz
+// Uso de Prompt:
+https://codepen.io/xosu1/pen/VwJyxyZ
 
+https://codepen.io/xosu1/pen/VwJQoqJ
