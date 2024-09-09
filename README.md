@@ -3,7 +3,13 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-STRING, VARIAVEIS, TIPOS PRIMITIVOS, SWITCH, INDEXOF, PROMPT, ARRAY.
+STRING: "hello world" "my name is'.
+VARIAVEIS: var, let, const.
+TIPOS PRIMITIVOS: boolean, undefined, null, number.
+SWITCH: case ou em portugues "casos"
+INDEXOF: literalmente IndexOf (Relata o índice baseado em zero da primeira ocorrência do caractere especificado nessa instância))
+PROMPT: literalmente Prompt (ao ser usado executa funçoes mais avançadas da interface))
+ARRAY: Os arrays são estruturas que servem para guardar dados, e organizá-los.
 
 
 ## Atividades desenvolvidas
