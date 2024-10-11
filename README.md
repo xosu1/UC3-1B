@@ -73,4 +73,6 @@ https://codepen.io/xosu1/pen/JjgKQNq
 
 https://codepen.io/xosu1/pen/bGXeXej
 
+// Uso de Boolean: https://codepen.io/pen/?editors=0011
+
 
