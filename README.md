@@ -4,12 +4,19 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 ## Conteúdo Técnico
 STRING: "hello world" "my name is'.
+
 VARIAVEIS: var, let, const.
+
 TIPOS PRIMITIVOS: boolean, undefined, null, number.
+
 SWITCH: case ou em portugues "casos"
+
 INDEXOF: literalmente IndexOf (Relata o índice baseado em zero da primeira ocorrência do caractere especificado nessa instância))
+
 PROMPT: literalmente Prompt (ao ser usado executa funçoes mais avançadas da interface))
+
 ARRAY: Os arrays são estruturas que servem para guardar dados, e organizá-los.
+
 FUNCTION: Funções são blocos de construção fundamentais em JavaScript. Uma função é um procedimento de JavaScript - um conjunto de instruções que executa uma tarefa ou calcula um valor. Para usar uma função, você deve defini-la em algum lugar no escopo do qual você quiser chamá-la.
 
 
