@@ -19,6 +19,9 @@ ARRAY: Os arrays são estruturas que servem para guardar dados, e organizá-los.
 
 FUNCTION: Funções são blocos de construção fundamentais em JavaScript. Uma função é um procedimento de JavaScript - um conjunto de instruções que executa uma tarefa ou calcula um valor. Para usar uma função, você deve defini-la em algum lugar no escopo do qual você quiser chamá-la.
 
+BOOLEAN: É um tipo de dado lógico que pode ter apenas um de dois valores possíveis: verdadeiro ou falso. Por exemplo, em JavaScript, condicionais booleanas são usadas para decidir quais trechos do código serão executados ou repetidas.
+Faz uso de "TRUE" e "FALSE".
+
 
 ## Atividades desenvolvidas
 
