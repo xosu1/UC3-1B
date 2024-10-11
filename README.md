@@ -1,6 +1,6 @@
 # Caderno virtual - Lógica da Programação e Algoritmos
-Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
 
+### JAVASCRIPT
 
 ## Conteúdo Técnico
 STRING: "hello world" "my name is'.
@@ -9,7 +9,7 @@ VARIAVEIS: var, let, const.
 
 TIPOS PRIMITIVOS: boolean, undefined, null, number.
 
-SWITCH: case ou em portugues "casos"
+SWITCH: faz se o uso de case ou em portugues "casos", "if" e "else"
 
 INDEXOF: literalmente IndexOf (Relata o índice baseado em zero da primeira ocorrência do caractere especificado nessa instância))
 
