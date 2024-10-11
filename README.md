@@ -49,3 +49,17 @@ https://codepen.io/xosu1/pen/VwJQoqJ
 
 atividade dia 09/09
 https://codepen.io/xosu1/pen/dyBaVdX?editors=0012
+
+// Uso de Function:
+
+https://codepen.io/xosu1/pen/poXYzPK
+
+https://codepen.io/xosu1/pen/wvVKJNW
+
+https://codepen.io/xosu1/pen/QWeEXbv
+
+https://codepen.io/xosu1/pen/JjgKQNq
+
+https://codepen.io/xosu1/pen/bGXeXej
+
+
