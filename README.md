@@ -1,6 +1,6 @@
 # Caderno virtual - Lógica da Programação e Algoritmos
 
-##### JAVASCRIPT
+## JAVASCRIPT
 
 ## Conteúdo Técnico
 STRING: "hello world" "my name is'.
